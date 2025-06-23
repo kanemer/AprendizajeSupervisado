@@ -1,6 +1,6 @@
 # Aprendizaje Supervisado 2025
 
-En esta sección encontrarán las presentaciones y las notebooks que se verán en las clases 28/06, 29/06, 11/07 y 12/07.
+En esta sección encontrarán las presentaciones y las notebooks que se verán en las clases 27/06, 28/06, 4/07 y 5/07.
 
 Para poder ejecutar las notebooks necesitarán tener instalado python con los siguientes paquetes mínimos:
 
